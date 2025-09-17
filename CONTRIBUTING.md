@@ -10,5 +10,5 @@ Please follow these steps to contribute:
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/venumadhavchary/github-final-project.git
+   cd github-final-project
